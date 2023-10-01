@@ -1,6 +1,11 @@
 
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author andresnitolamoreno
+ */
+
 public class CalculoNotaEstudiantes {
 
     public static void main(String[] args) {
